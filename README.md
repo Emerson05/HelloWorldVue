@@ -1,3 +1,5 @@
+Repositorio para a primeira atividade da mentoria junto com a empresa beyond.
+
 # primeiros-passos
 
 ## Project setup
